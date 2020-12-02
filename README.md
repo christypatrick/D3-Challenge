@@ -7,4 +7,4 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 ## Analysis
 For this assignment, a scatter plot has been created with Healthcare vs Poverty as data variables.  D3 technicques were used to create the scatte plot that represents each state with circle elements.  Note:   Use python -m http.server to run the visualization. 
 
-![image_1](https://github.com/christypatrick/web-scraping-challenge/blob/main/Missions_to_Mars/images/web_scraping_screenshot_1.png)
+![image_1](https://github.com/christypatrick/D3-Challenge/blob/main/D3_data_journalism/assets/images/Poverty%20vs%20Healthcare%20Screenshot.jpg)
