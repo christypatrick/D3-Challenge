@@ -39,7 +39,7 @@ d3.csv("./assets/data/data.csv").then(function(data) {
     .append("circle")
         .attr("cx", function (d) { return x(d.poverty); } )
         .attr("cy", function (d) { return y(d.healthcare); } )
-        .attr("r", 12)
+        .attr("r", 10)
         .style("fill", "steelblue")
         .attr("opacity", "0.8");
 
@@ -54,7 +54,7 @@ d3.csv("./assets/data/data.csv").then(function(data) {
         .text( function (d) { return d.abbr; })
         .attr("font-family", "sans-serif")
         .attr("text-anchor", "middle")
-        .attr("font-size", "10px")
+        .attr("font-size", "9px")
         .attr("fill", "white");
 
        
